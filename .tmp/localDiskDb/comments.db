@@ -1,0 +1,17 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"commentId","unique":true,"sparse":false}}
+{"createdAt":1570711952364,"updatedAt":1570711956033,"id":12,"commentId":910119182232363,"commentData":"Hello","parentComment":0,"postId":1,"user":"tophire","_id":12}
+{"createdAt":1570711952364,"updatedAt":1570712325409,"id":12,"commentId":910119182232363,"commentData":"Hello I am batman","parentComment":0,"postId":1,"user":"tophire","_id":12}
+{"commentId":910119182857319,"commentData":"I am alfred","parentComment":910119182232363,"postId":1,"user":"tophire","createdAt":1570712337323,"updatedAt":1570712337323,"id":13,"_id":13}
+{"commentId":91011918296113,"commentData":"Maker","postId":1,"user":"tophire","createdAt":1570712346113,"updatedAt":1570712346113,"id":14,"parentComment":0,"_id":14}
+{"commentId":910119182918440,"commentData":"I am Gordon","parentComment":910119182857319,"postId":1,"user":"tophire","createdAt":1570712358441,"updatedAt":1570712358441,"id":15,"_id":15}
+{"commentId":910119182935418,"commentData":"I am Lucius FOx","parentComment":910119182918440,"postId":1,"user":"tophire","createdAt":1570712375419,"updatedAt":1570712375419,"id":16,"_id":16}
+{"commentId":910119182918440,"commentData":"I am Gordon and Barbara","parentComment":910119182857319,"postId":1,"user":"tophire","createdAt":1570712358441,"updatedAt":1570712383683,"id":15,"_id":15}
+{"commentId":910119183013660,"commentData":"I am Ironman","postId":1,"user":"tophi","createdAt":1570712413660,"updatedAt":1570712413660,"id":17,"parentComment":0,"_id":17}
+{"commentId":910119183013660,"commentData":"I am Ironman and Tony Stark","postId":1,"user":"tophi","createdAt":1570712413660,"updatedAt":1570712423104,"id":17,"parentComment":0,"_id":17}
+{"$$deleted":true,"_id":12}
+{"$$deleted":true,"_id":13}
+{"$$deleted":true,"_id":14}
+{"$$deleted":true,"_id":15}
+{"$$deleted":true,"_id":16}
+{"$$deleted":true,"_id":17}

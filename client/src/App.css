@@ -1,0 +1,66 @@
+@media all and (min-width: 480px) {
+  
+  input[type=text], input[type=password], select {
+    width: 40%;
+    padding: 10px 15px;
+    margin: 4px 0;
+    margin-left: 420px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=checkbox]{
+    width: 40px;
+    height:20px;
+  }
+  input[type=submit] {
+    width: 20%;
+    background-color: #0e71eb;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    margin-left: 550px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  label{
+    margin-left: 420px;
+  }
+  input[type=submit]:hover {
+    background-color: #0e71eb;
+  }
+  button{
+    width: 20%;
+    background-color: #0e71eb;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .Steps, .AppKeySteps{
+    margin-left: 450px;
+  }
+  .header1 {
+    padding: 20 px 0;
+    margin-left: 400px;
+  }
+  .list{
+    margin-left: 590px;
+  }
+  .btn{
+    width: 70px;
+    background-color: #0e71eb;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    font-size: 70%;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+}
