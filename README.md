@@ -2,22 +2,20 @@
 Comment System with recursive reply system. 
 
 
-#Usage
+# Usage
 
 1. Clone the repo.
 2. npm install
 3. npm start
 
-You will be routed to the login Page.For simplicity, I have created 3 Users by default
-1.
+You will be routed to the login Page.For simplicity, I have created 3 Users by default:-
+
 username: rachit3107
 password: tophire
 
-2. 
 username: tophire
 password: tophire
 
-3.
 username: rentmojo
 password: tophire
 
